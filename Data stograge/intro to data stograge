@@ -1,0 +1,24 @@
+/* android provides several options for you to save persistent application data. 
+It totallyy depends on our needs, which storage option we want to select to storer data.
+
+
+
+Types of data stograges 
+internal storage
+external storage 
+sqllite data bases
+shaprd preference 
+cache storage 
+
+
+
+
+
+
+
+
+
+
+
+
+*/
