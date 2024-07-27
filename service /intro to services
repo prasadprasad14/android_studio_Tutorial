@@ -1,0 +1,18 @@
+/* service is a long running task or process without any user interaction.
+the android.app.service is subclass of contextwrapper class.
+
+A service can essentially take two forms:
+started 
+Bound
+
+
+
+
+
+
+
+
+
+
+
+*/
