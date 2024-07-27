@@ -1,0 +1,32 @@
+/*
+Input controls are the interactive components in you app's user interface.
+android provides a wide variety of controls you can use in your UI, such as 
+button, text fields, zppm buttons, toggle button, and many more.
+adding an input control to your UI is as simple as adding an sml elements to xml layout.
+
+Types of UI are there 
+
+Button 
+TextField 
+image button 
+Toggle button 
+Radio button 
+chek box
+spinners rating bar 
+progress bar 
+date picker 
+Time picker 
+Toast 
+Auto complete Textview 
+Alert dialog
+cheked Text view 
+text switcher 
+Image switcher 
+Adapter view flipper 
+
+
+
+
+
+
+*/
