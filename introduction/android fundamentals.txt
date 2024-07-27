@@ -1,0 +1,5 @@
+/*what is android 
+android is a software stack of mobile devices that includes an operating system,
+middleware and key application. the android sdk provides the tools and apis necessary to develop 
+application on the android platformusing the jave/kotlin programming language.
+*/
