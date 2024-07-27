@@ -1,0 +1,21 @@
+/*
+Layouts are subclasses of viewGroup which specifies how a view 
+should be arranged inside the viewGroups.it defines the visual 
+structure for a user interface.
+
+Types of layouts 
+
+Linear layout 
+Relative layout
+frame layout
+Table layout
+
+
+
+
+
+
+
+
+
+*/
