@@ -1,0 +1,29 @@
+/* 
+In Android Studio, containers are views that contain other views, and are called layouts. 
+Layouts control the size, position, and organization of their children. 
+
+Types of views
+List view 
+Custom list view 
+Expandable list view 
+Grid view 
+web view  
+search view 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
